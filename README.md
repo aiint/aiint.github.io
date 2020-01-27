@@ -1,5 +1,9 @@
+##ai.int
+
 **Artificial intelligence international**
 
-**Welcime to aiint**
+**Welcome to ai.int**
 
-**Email: ai.int@pm.me
+**Email: ai.int@pm.me**
+
+Copyright © 2020 ai.int
