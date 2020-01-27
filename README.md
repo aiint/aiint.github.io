@@ -1,2 +1,2 @@
-# aiint.github..io
+# aiint.github.io
 Artificial intelligence international
