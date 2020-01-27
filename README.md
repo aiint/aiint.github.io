@@ -1,2 +1,3 @@
 # aiint.github.io
-Artificial intelligence international
+**Artificial intelligence international**
+**Welcime to aiint**
